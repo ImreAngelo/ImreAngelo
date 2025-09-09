@@ -1,4 +1,4 @@
-## Hi there 👋
+👋 Hello! I am Imre
 
 <!--
 **ImreAngelo/ImreAngelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a security-focused engineer, with a personal belief that security should be <a href="https://en.wikipedia.org/wiki/Secure_by_design">by design</a> and not an after-thought. 
+
+<!-- I enjoy making high-performance code. -->
