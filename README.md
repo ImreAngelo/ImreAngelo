@@ -8,6 +8,8 @@ I am a security-focused engineer, with a personal belief that security should be
 - 🔧 Modern C++/C, Rust, React, Typescript/JavaScript, Docker, Kubernetes, AWS, and much more
 <br/>
 
+<!--
 <picture>
   <img width="100%" src="https://github.com/user-attachments/assets/e19bf8d3-fb84-4576-b0db-5731915b0718" />
 </picture>
+-->
