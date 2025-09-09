@@ -1,4 +1,4 @@
-<h1>👋 Hello! I am Imre</h1>
+<h1>👋 Hello, world! I am Imre</h1>
 
 I am a security-focused engineer, with a personal belief that security should be <a href="https://en.wikipedia.org/wiki/Secure_by_design">by design</a> and not an after-thought. 
 
